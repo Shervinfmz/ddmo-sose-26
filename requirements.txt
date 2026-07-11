@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+lightgbm
+jupyter
+ipykernel
+pyarrow
+requests
