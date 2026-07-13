@@ -10,8 +10,8 @@ on:
     branches: [ "main" ]
 
 permissions:
-  security-events: write
-  id-token: write
+  security-events: read
+  id-token: none
   contents: read
   actions: read
 
