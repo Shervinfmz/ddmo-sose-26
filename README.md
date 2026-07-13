@@ -49,3 +49,10 @@ Notes
 
 Large raw data files, cached files, and trained model files are not committed to this repository.
 
+
+## Security
+
+This repository uses GitHub CodeQL and OpenSSF Scorecard for automated security analysis.
+
+For vulnerability reporting information, see [SECURITY.md](SECURITY.md).
+
