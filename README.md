@@ -44,6 +44,12 @@ MAE
 RMSE
 MAPE
 comparison against weekly persistence
+
+## Security
+
+This repository uses GitHub CodeQL and OpenSSF Scorecard for automated security analysis.
+
+For vulnerability reporting information, see [SECURITY.md](SECURITY.md).
 Notes
 
 
